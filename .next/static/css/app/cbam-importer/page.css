@@ -1,0 +1,105 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./components/pages/cbam-importer/page-style.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+.cbam_banner_area {
+  background: #233041;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cbam__banner_text h2 {
+  color: #233041;
+}
+.cbam-importer-main {
+  background: #e2e7eb;
+}
+.cbam_img_with_text {
+  background: #e2e7eb;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header__area-menubar-left.one::after {
+  top: 0px;
+
+  height: 87px;
+}
+.cbam_img_with_text-right img {
+  border: 20px solid #fff;
+  border-radius: 50px;
+}
+.equalHeight {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}
+.cbam_img_with_text-left h5 {
+  color: #233041;
+}
+.cbam_three_tab {
+  background-color: #233041;
+}
+.cbam_advantage-sec {
+  background-color: #6f6b71;
+}
+.service-cols {
+  display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    height: 260px;
+}
+
+
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./components/pages/homes/home/home.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.about__scope-of-application img {
+  width: 50%;
+}
+.about__scope-of-application h6 {
+  font-size: 12px;
+  font-weight: 700;
+}
+.trustclient-card-img {
+  position: relative;
+}
+.card-title-bg {
+  padding: 60px;
+  margin: 0;
+  text-align: center;
+}
+.card-img .card-image-overlay {
+  position: relative;
+  top: 20%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.flex-col {
+  flex-direction: column;
+  gap: 10px;
+}
+.flex-col {
+  flex-direction: column;
+  gap: 10px;
+  width: 30%;
+  margin: 0 auto;
+}
+ul {
+  padding-left: 1rem;
+}
+.feature.map {
+  height: 100%;
+  iframe {
+    height: 100%;
+    width: 100%;
+    border: 0;
+    filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");
+    filter: gray;
+    -webkit-filter: grayscale(99%);
+    -webkit-backface-visibility: hidden;
+  }
+}
+

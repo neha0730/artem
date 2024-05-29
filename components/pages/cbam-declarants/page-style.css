@@ -1,0 +1,52 @@
+.cbam_banner_area {
+    background: #e2e7eb;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .cbam__banner_text h2 {
+    color: #233041;
+  }
+  .cbam-importer-main {
+    background: #e2e7eb;
+  }
+  .cbam_img_with_text {
+    background: #233041;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  .header__area-menubar-left.one::after {
+    top: 0px;
+  
+    height: 87px;
+  }
+  .cbam_img_with_text-right img {
+    border: 20px solid #fff;
+    border-radius: 50px;
+  }
+  .equalHeight {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+  }
+  .cbam_img_with_text-left h5 {
+    color: #233041;
+  }
+  .cbam_three_tab {
+    background-color: #233041;
+  }
+  .cbam_advantage-sec {
+    background-color: #6f6b71;
+  }
+  .service-cols {
+    display: flex;
+      align-items: center;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      height: 260px;
+  }
+  
+  
+  
